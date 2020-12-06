@@ -22,14 +22,5 @@
     <a href="mailto:aglawe.anup22@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
     <a href="https://anup.tech" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
-  
-  <p align="center">  <a href="http://github.com/anup-a/svgwave"> Svgwave </a>
-</p>
-  <p align="center">
-    <a href="http://hits.dwyl.com/anup-a/svgwave">
-      <img align="center" src="http://hits.dwyl.com/anup-a/svgwave.svg">
-    </a>
-  </p>
-</p>
 
 ![Wave](./svg.png)
