@@ -12,3 +12,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anup-a&show_icons=true&line_height=27&count_private=true&theme=material-palenight" alt="Martin's GitHub Stats" />
 </a>
 
+![](./svg.png)
