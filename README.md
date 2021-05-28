@@ -23,4 +23,4 @@
     <a href="https://anup.tech" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
 
-![Wave](./svg.png)
+![Wave](https://user-images.githubusercontent.com/29516633/119890242-36f3ba00-bf55-11eb-9ed4-288287d979d8.jpg)
