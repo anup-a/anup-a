@@ -14,4 +14,3 @@ Tech I'm trying out - <b>Svelte, Styled-components, Supabase, Java </b>
 Tech I'm learning this year - <b>Astro, Vue, Rust, Ethereum </b>
 </code>
 </pre>
-![MacBook Pro - 5](https://user-images.githubusercontent.com/29516633/222900456-fc851312-e8e9-45a0-91fa-aa289946fb1b.png)
