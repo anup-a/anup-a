@@ -12,8 +12,8 @@ I build **AI-native products** and the tooling around coding agents: generative 
 ---
 
 ### 🚀 At work
-- **Travel AI Agent:** leading the frontend of a conversational trip-planning and in-chat booking agent. SSE streaming, a live reasoning timeline, and a **generative-UI** pipeline that renders LLM-authored components as real React.
-- **Flight PC:** built the flight-ticketing web app from scratch (search, fares, cabins, order flow, payments).
+- **Travel AI Agent:** building a conversational trip-planning and in-chat booking agent. SSE streaming, a live reasoning timeline, and a **generative-UI** pipeline that renders LLM-authored components as real React.
+- **Flight booking:** built the corporate flight-booking product from scratch (search, fares, cabins, order flow, payments).
 - **Knowledge Base for coding agents:** grounds AI agents in business and repo context, backed by a code-search / RAG eval.
 - **AI Code Review:** agent-driven review workbench, automated MR change-impact analysis, and a historical-bug eval set.
 
