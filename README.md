@@ -1,6 +1,6 @@
 <h2>Hi, I'm Anup 👋</h2>
 
-**Frontend Engineer @ ByteDance** · Dubai, UAE
+**Software Engineer @ ByteDance** · Dubai, UAE
 I build **AI-native products** and the tooling around coding agents: generative UI, streaming chat, and agent workflows that actually ship code.
 
 <a href="https://anup.app">anup.app</a> ·
