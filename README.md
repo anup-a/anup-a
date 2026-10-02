@@ -37,7 +37,7 @@ I build **AI-native products** and the tooling around coding agents: generative 
 - **[svgwave](https://github.com/anup-a/svgwave)** · SVG gradient-wave generator · ⭐ 700+
 - **[meshy](https://github.com/anup-a/meshy)** · beautiful mesh gradients · ⭐ 400+
 - **[Creatica](https://creatica.app)** · design app scaled to 4,000+ users (>3K MRR)
-- **[Uxie](https://uxie.io)** · 3 tools, 250K+ users, Top Product on Product Hunt
+- **[Uxie](https://github.com/uxie-io)** · 3 tools, 250K+ users, Top Product on Product Hunt
 
 ### 🧰 Tech
 `React` · `TypeScript` · `Next.js` · `Node.js` · `Swift` · `Tailwind`
