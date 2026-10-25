@@ -3,7 +3,6 @@
 **Software Engineer @ ByteDance** · Dubai, UAE
 I build **AI-native products** and the tooling around coding agents: generative UI, streaming chat, and agent workflows that actually ship code.
 
-<a href="https://anup.app">anup.app</a> ·
 <a href="https://www.linkedin.com/in/anup-aglawe-8488aa1a5/">LinkedIn</a> ·
 <a href="https://x.com/abscubix">X</a> ·
 <a href="https://www.producthunt.com/@anup_aglawe">Product Hunt</a> ·
